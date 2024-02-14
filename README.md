@@ -7,10 +7,6 @@ Welcome to the "Automate the Boring Stuff with Python" repository! This collecti
 ## Table of Contents
 - [Introduction](#introduction)
 - [Topics Covered](#topics-covered)
-- [Getting Started](#getting-started)
-- [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
