@@ -24,8 +24,8 @@ Explore various Python programming concepts, including but not limited to:
 - Spreadsheet manipulation
 - Automation techniques
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Automate-Boring-Stuff-Python.git
+## Clone the repository:
+Run this into your command prompt / Terminal to clone the repository:
+   
+```bash
+git clone https://github.com/krsna016/automate-the-boring-stuffs-with-python.git
