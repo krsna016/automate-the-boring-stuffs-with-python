@@ -1,5 +1,5 @@
 # Automate the Boring Stuff with Python
-![Alt text]([https://media.geeksforgeeks.org/wp-content/uploads/20220817185057/Circulardoublylinkedlist-660x155.png](https://m.media-amazon.com/images/I/81S9vwXjScL._AC_UF1000,1000_QL80_.jpg))
+![Alt text](https://m.media-amazon.com/images/I/81S9vwXjScL._AC_UF1000,1000_QL80_.jpg)
 
 
 Welcome to the "Automate the Boring Stuff with Python" repository! This collection of code and solutions is based on the popular book by Al Sweigart, designed to help you learn Python through practical examples of automating everyday tasks.
